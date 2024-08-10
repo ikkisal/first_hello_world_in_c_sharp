@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Programação\Projetos\Exemplo_fundamentos\bin\Debug\net8.0\Exemplo_fundamentos.exe
+C:\Users\PC\Desktop\Programação\Projetos\Exemplo_fundamentos\bin\Debug\net8.0\Exemplo_fundamentos.deps.json
+C:\Users\PC\Desktop\Programação\Projetos\Exemplo_fundamentos\bin\Debug\net8.0\Exemplo_fundamentos.runtimeconfig.json
+C:\Users\PC\Desktop\Programação\Projetos\Exemplo_fundamentos\bin\Debug\net8.0\Exemplo_fundamentos.dll
+C:\Users\PC\Desktop\Programação\Projetos\Exemplo_fundamentos\bin\Debug\net8.0\Exemplo_fundamentos.pdb
+C:\Users\PC\Desktop\Programação\Projetos\Exemplo_fundamentos\obj\Debug\net8.0\Exemplo_fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Programação\Projetos\Exemplo_fundamentos\obj\Debug\net8.0\Exemplo_fundamentos.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Programação\Projetos\Exemplo_fundamentos\obj\Debug\net8.0\Exemplo_fundamentos.AssemblyInfo.cs
+C:\Users\PC\Desktop\Programação\Projetos\Exemplo_fundamentos\obj\Debug\net8.0\Exemplo_fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Programação\Projetos\Exemplo_fundamentos\obj\Debug\net8.0\Exemplo_fundamentos.dll
+C:\Users\PC\Desktop\Programação\Projetos\Exemplo_fundamentos\obj\Debug\net8.0\refint\Exemplo_fundamentos.dll
+C:\Users\PC\Desktop\Programação\Projetos\Exemplo_fundamentos\obj\Debug\net8.0\Exemplo_fundamentos.pdb
+C:\Users\PC\Desktop\Programação\Projetos\Exemplo_fundamentos\obj\Debug\net8.0\Exemplo_fundamentos.genruntimeconfig.cache
+C:\Users\PC\Desktop\Programação\Projetos\Exemplo_fundamentos\obj\Debug\net8.0\ref\Exemplo_fundamentos.dll
